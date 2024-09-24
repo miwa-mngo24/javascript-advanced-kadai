@@ -56,9 +56,6 @@ const keyPress = e => {
     return;
   }
 
-  //文字数判定
-let lettercount =0;
-
   // 正タイプの場合
   // スコアのインクリメント
   score++;
